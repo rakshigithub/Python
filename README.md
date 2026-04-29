@@ -49,6 +49,7 @@ Variability in pollutant levels
 📌 Box plots for outlier detection
 📌 AQI category distribution charts
 📌 Multi-variable comparison plots
+
 💡 Key Insights
 Many pollutants show high skewness, indicating extreme pollution events
 AQI is mostly concentrated in Moderate to Poor categories
